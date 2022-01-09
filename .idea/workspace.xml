@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abec3077-61e4-4b78-9642-ca6c5744ff15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/Converting_1DArray_to_2DArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/Find All Duplicates in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/Find the Duplicate Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/FindAllNumDisappearedInArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/MissingNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/Product of Array Except Self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetode Practice/SingleNumber.py" afterDir="false" />
+    <list default="true" id="abec3077-61e4-4b78-9642-ca6c5744ff15" name="Default Changelist" comment="Array Practice">
+      <change afterPath="$PROJECT_DIR$/Leetode Practice/Set Matrix Zeroes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Find All Duplicates in an Array">
+  <component name="RunManager" selected="Python.Set Matrix Zeroes">
     <configuration name="Converting_1DArray_to_2DArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SingleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Set Matrix Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetode Practice/SingleNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetode Practice/Set Matrix Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Set Matrix Zeroes" />
         <item itemvalue="Python.Find All Duplicates in an Array" />
         <item itemvalue="Python.Find the Duplicate Number" />
         <item itemvalue="Python.Product of Array Except Self" />
         <item itemvalue="Python.Converting_1DArray_to_2DArray" />
-        <item itemvalue="Python.SingleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641502386571</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Array Practice">
+      <created>1641729558635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641729558635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,26 +211,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Array Practice" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="3" key="CommitChangelistDialog2" timestamp="1641502385346">
+    <state x="424" y="3" key="CommitChangelistDialog2" timestamp="1641729589927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1641502385346" />
-    <state width="1491" height="377" key="GridCell.Tab.0.bottom" timestamp="1641729240869">
+    <state x="424" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1641729589927" />
+    <state width="1491" height="229" key="GridCell.Tab.0.bottom" timestamp="1641748164992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="377" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641729240869" />
-    <state width="1491" height="377" key="GridCell.Tab.0.center" timestamp="1641729240869">
+    <state width="1491" height="229" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641748164992" />
+    <state width="1491" height="229" key="GridCell.Tab.0.center" timestamp="1641748164992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="377" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641729240869" />
-    <state width="1491" height="377" key="GridCell.Tab.0.left" timestamp="1641729240869">
+    <state width="1491" height="229" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641748164992" />
+    <state width="1491" height="229" key="GridCell.Tab.0.left" timestamp="1641748164992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="377" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641729240869" />
-    <state width="1491" height="377" key="GridCell.Tab.0.right" timestamp="1641729240869">
+    <state width="1491" height="229" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641748164992" />
+    <state width="1491" height="229" key="GridCell.Tab.0.right" timestamp="1641748164992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="377" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641729240869" />
+    <state width="1491" height="229" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641748164992" />
     <state width="1491" height="260" key="GridCell.Tab.1.bottom" timestamp="1641727437552">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
